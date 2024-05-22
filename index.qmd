@@ -1,6 +1,8 @@
 ---
 title: "Sample Quarto Document"
 format: html
+execute:
+  enabled: true
 ---
 
 # Introduction
