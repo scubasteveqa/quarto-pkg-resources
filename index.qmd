@@ -1,0 +1,11 @@
+---
+title: "Sample Quarto Document"
+format: html
+---
+
+# Introduction
+
+This is a sample Quarto document.
+
+```{python}
+print("Hello, Quarto!")
